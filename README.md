@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JimmyAIE
+- 👀 I’m interested in GameDev
+- 🌱 I’m currently learning GameDev
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me karatekid1410@gmail.com
